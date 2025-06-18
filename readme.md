@@ -39,29 +39,6 @@
     </tr>
 </table>
 
-<!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=FarrelNayaka&theme=dark&show_icons=true&count_private=true" alt="Farrel's GitHub Stats" />
-        <br><br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Farrel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FarrelNayaka&theme=dark&hide_border=false" />
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FarrelNayaka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" alt="Farrel's Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarrelNayaka&custom_title=Farrel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Farrel's Activity Graph" />
-  <img width="100%" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
-</div>
-
 <!--Connect-->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'><b> Let's Connect </b>
 <p align="center">
