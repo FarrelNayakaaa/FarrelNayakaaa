@@ -15,7 +15,7 @@
 - 🎨 Also enjoy designing with **Figma**
 - 🧠 Currently exploring **AI Engineering** with Java and Python
 - 🌱 Always learning and building side projects
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/muhammadfarrelnayaka)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/muhammad-farrel-87a776278)
 
 <!--Tech Stacks-->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Tech Stacks</b>
