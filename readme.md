@@ -3,7 +3,7 @@
 
 <!--Typewriter-->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Engineer;AI+Engineer;Java+and+Python+Developer;Figma+UI/UX+Designer;Tech+Enthusiast;Always+Learning+Something+New..."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Backend+Engineer;AI+Engineer;Java,+Kotlin,+Python,+and+many+more;Figma+UI/UX+Designer;Tech+Enthusiast;Always+Learning+Something+New..."></a>
 </p>
 	
 <!--About Me-->
