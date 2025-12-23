@@ -23,7 +23,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,python"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,kotlin,javascript"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
