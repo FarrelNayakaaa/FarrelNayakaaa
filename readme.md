@@ -27,7 +27,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=laravel,spring,node"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=laravel,spring,node.js"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">AI/ML:</td>
